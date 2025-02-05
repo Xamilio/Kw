@@ -20,7 +20,9 @@ int main()
 	//		cout << arr[i][j] << " ";
 	//	}
 	//	cout << endl;
+	
 	//}
+	//2
 	const int R = 5;
 	const int C = 5;
 	int arr[R][C];
